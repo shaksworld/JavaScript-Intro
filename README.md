@@ -1,2 +1,1 @@
-# JavaScript-Intro
-for zuri javascript intro
+https://shaksworld.github.io/JavaScript-Intro/
