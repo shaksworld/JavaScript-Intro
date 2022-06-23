@@ -1,7 +1,5 @@
-
-
 var myName = "Shaka Muhammed"
-var height = 5-6
+var height = "5-6"
 var country = "Nigeria"
 
 document.write('My name is' + ' ' + myName + '<br>')
